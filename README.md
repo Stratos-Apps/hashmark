@@ -13,6 +13,7 @@ Hashmark is a checksum tool to verify all your files. It can be used with a user
 1. Download the latest release to your `~/Downloads` folder
 2. Open a Terminal and navigate to your `~/Downloads` folder
 3. Execute`python3 hashmark.py hash path/to/file.zip` to verify files using SHA-256
+
 3b. To use SHA-512: `python hashmark.py --algorithm sha512 hash path/to/file.zip`
 
 ## Installation and use (GUI)
